@@ -1,4 +1,2 @@
 HelloWorld
 ==========
-
-Derpity derp derp.
